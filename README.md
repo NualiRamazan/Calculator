@@ -1,2 +1,2 @@
-## calculator
-https://nualiramazan.github.io/calculator/
+# calculator
+# https://nualiramazan.github.io/calculator/
